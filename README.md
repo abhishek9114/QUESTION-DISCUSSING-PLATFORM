@@ -1,6 +1,6 @@
 # QUESTION-DISCUSSING-PLATFORM
-QUESTION-DISCUSSING-PLATFORM
-INTRO:A simple learning and discussing platform which  have calender showing dates,login page, admin page, ability to add and remove content via User Interface.
+QUESTION-DISCUSSING-PLATFORM<br></br>
+INTRO:A simple learning and discussing platform which  have calender showing dates,login page, admin page, ability to add and remove content via User Interface.<br></br>
 
 FEATURES:
 1.LOGIN AND REGISTRATION PAGE.
