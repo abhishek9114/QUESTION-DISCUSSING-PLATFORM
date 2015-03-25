@@ -1,0 +1,6 @@
+
+<ul class="nav nav-tabs nav-stacked">  
+<li><a href="afterposts.php">See all Posts</a></li>
+<li class="active"><a href="afterlogin.php">Post</a></li>
+  
+</ul> 

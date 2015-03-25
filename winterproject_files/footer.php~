@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<div class="row col-md-offset-7">
+<button class="btn btn-lg"><a href= "index.php">Home</a></button>
+<a href ="contactme.php"><button class="btn btn-lg"> Contact Us</button></a> 
+<button class="btn btn-lg"><a href = "aboutme.php">About Us</a></button>
+</div>
+</div>
+</body>
+</html>
