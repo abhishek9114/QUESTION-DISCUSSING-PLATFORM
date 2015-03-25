@@ -1,5 +1,5 @@
 # QUESTION-DISCUSSING-PLATFORM<br></br>
-INTRO:A simple learning and question discussing platform which  have calender showing dates,login page, admin page, ability to add and remove content via User Interface.<br></br>
+ABOUT:A simple learning and question discussing platform which  have calender showing dates,login page, admin page, ability to add and remove content via User Interface.<br></br>
 
 FEATURES:<br></br>
 1.LOGIN AND REGISTRATION PAGE.<br></br>
